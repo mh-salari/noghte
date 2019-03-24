@@ -82,9 +82,7 @@ class MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(
-            _translate("MainWindow", "Create Landmarks Dataset")
-        )
+        MainWindow.setWindowTitle(_translate("MainWindow", "Noghte"))
         MainWindow.setWindowIcon(QtGui.QIcon(resource_path("logo.ico")))
         self.menuFile.setTitle(_translate("MainWindow", "File"))
         self.menuAuxiliaryTools.setTitle(_translate("MainWindow", "Tools"))

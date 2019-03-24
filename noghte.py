@@ -32,7 +32,7 @@ class Main(QMainWindow, MainWindow):
 
     def initUI(self):
         self.center()
-        self.setWindowTitle("Landmark Label Tool")
+        self.setWindowTitle("Noghte")
         self.img_label = ImgLabel(None, None)
 
         self.horizontalLayout_2.addWidget(self.img_label)
