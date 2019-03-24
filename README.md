@@ -5,7 +5,7 @@ Noghte is a simple GUI application that helps you to landmark your images
 ![noghte_demo](noghte_demo.jpg)
 
 ## Install:
-Install Pyhotn3 and pip3 then then pull this repository, cd to 'noghte' and run the following command:
+Install Pyhotn3 and pip3 then pull this repository, cd to 'noghte' and run the following command:
 
 ```sh
 pip3 install -r requarments.txt
