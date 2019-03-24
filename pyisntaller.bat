@@ -1,1 +1,0 @@
-pyinstaller  label_tool.py -p "Digitize.py" -p "ImgLabel.py" -p "rcs_rc.py" -p "test.py" -p "tools.py" --hidden-import "test" --hidden-import "ImgLabel" --hidden-import "tools" -p "C:\Users\chen\Anaconda3\envs\python35\Lib\site-packages\PyQt5\Qt\bin" -w -F -i logo.ico
