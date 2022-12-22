@@ -1,7 +1,7 @@
 This tool is originally based on some other MIT license tool that I found in GitHub years ago, and I cannot remember its name to cite, with many modifications, feature additions, and error handling.
 
 # noghte
-Noghte is a simple GUI application that helps you to landmark your images 
+Noghte is a simple GUI application that helps you to landmark your images, I developed it as part of a project to predict landmarks in Dental X-Rays.
 
 ## Screenshots:
 ![noghte_demo](noghte_demo.jpg)
